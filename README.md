@@ -59,3 +59,9 @@ Compétences à valider
 Prendre en main le framework Symfony
 Elaborer les différents éléments d’un projet
 Créer un site Internet, de sa conception à sa livraison
+
+
+
+
+
+Site en local : http://localhost/louvre/framework-standard-edition/web/
